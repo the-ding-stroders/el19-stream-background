@@ -1,7 +1,16 @@
+body {
+	margin: 0;
+}
+
 .colorchange {
 	background: #001721;
 	-webkit-animation: colorchange 10s ease-in-out infinite;
 	        animation: colorchange 10s ease-in-out infinite;
+}
+
+#particles-js {
+	width: 1920px;
+	height: 1080px;
 	margin: 0;
 	box-shadow: inset 4px 10px 20px 2px rgba(75, 75, 75, 0.50);
 }
