@@ -30,10 +30,7 @@ body {
   0% {
     background: #001721;
   }
-  33% {
-    background: #022738;
-  }
-	75% {
+	50% {
     background: #0D0D0D;
   }
 	100% {
@@ -44,10 +41,7 @@ body {
 	0% {
     background: #001721;
   }
-	33% {
-    background: #022738;
-  }
-	75% {
+	50% {
     background: #0D0D0D;
   }
 	100% {
