@@ -4,8 +4,8 @@ body {
 
 .colorchange {
 	background: #001721;
-	-webkit-animation: colorchange 10s ease-in-out infinite;
-	        animation: colorchange 10s ease-in-out infinite;
+	-webkit-animation: colorchange 60s ease-in-out infinite;
+	        animation: colorchange 60s ease-in-out infinite;
 }
 
 #particles-js {
